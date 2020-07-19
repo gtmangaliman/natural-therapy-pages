@@ -11,7 +11,7 @@ composer update
 php artisan migrate
 ```
 
-## Run Seeders
+## Migrate Data through Seeding
 ```
 php artisan db:seed
 ```
