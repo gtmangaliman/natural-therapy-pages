@@ -35,7 +35,7 @@ CRUD Routes
 /pratitioners/delete - adds practioner profile details
 ```
 
-Kinldy make sure that a valid api_token is inclulded as a query paramter to be able to perform CRUD operations
+Kinldy make sure that a valid api_token is inclulded as a query paramter to be able to perform CRUD operations.
 List of api_token per user can be found under users table
 
 
