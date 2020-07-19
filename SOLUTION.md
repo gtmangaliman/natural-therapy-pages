@@ -11,3 +11,4 @@ Given more time I would have done the ff:
 -User access management tool for users - list of users including their permissions per module based on their role
 -Logs for all the CRUD execution per user
 -Error Logs
+-Filter domains that can access CRUD methods.
